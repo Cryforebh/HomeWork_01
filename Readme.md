@@ -7,4 +7,5 @@ Test add v 0.2
 Lesson:
 - git status
 - git add Readme.md
-- git commit -m "Readme local v 0.3"
+- git commit -m "Readme local v 0.3" \\ Создаем Коммит с последними изменениями
+- git log --oneline \\ история проекта
