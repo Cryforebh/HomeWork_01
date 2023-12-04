@@ -15,3 +15,4 @@ Lesson:
 - git branch \\ просмотреть ветви в Git
 - git branch new-branch \\ создать новую паралельную ветку "new-branch"
 - git checkout new-branch \\ переключиться на ветку "new-branch"
+- git push -u origin new-branch \\ добавить ветку в удаленный репозиторий
