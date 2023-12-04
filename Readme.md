@@ -16,3 +16,4 @@ Lesson:
 - git branch new-branch \\ создать новую паралельную ветку "new-branch"
 - git checkout new-branch \\ переключиться на ветку "new-branch"
 - git push -u origin new-branch \\ добавить ветку в удаленный репозиторий
+- git merge new-branch \\ добавить изменения из "new-branch" в "main" (Нужно находится на ветке в которую добавляются изменения из указываемой ветке)
